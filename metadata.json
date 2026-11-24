@@ -1,0 +1,6 @@
+{
+  "name": "أكاديمية الدكتور ياسر ضياء الأسدي التفاعلية",
+  "description": "منصة تعليمية طبية تفاعلية في طب وجراحة الفم والأسنان — Endodontic Diagnosis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
